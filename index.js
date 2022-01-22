@@ -1,6 +1,12 @@
-// Import stylesheets
-import './style.css';
+import './js/prvni_ukol.js'
 
-// Write Javascript code!
-const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS Starter</h1>`;
+
+// vytvoreni promenen
+let jmeno;
+
+
+
+// mama ma maso 
+//*
+
+
