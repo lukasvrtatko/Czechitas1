@@ -1,8 +1,8 @@
-import './js/druhy_ukol.js'
+import './js/treti_ukol.js'
 
 
 // vytvoreni promenen
-let jmeno;
+// let jmeno;
 
 
 
