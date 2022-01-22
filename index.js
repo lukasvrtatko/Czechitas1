@@ -1,4 +1,4 @@
-import './js/treti_ukol.js'
+import './js/ctvrty_ukol.js'
 
 
 // vytvoreni promenen
