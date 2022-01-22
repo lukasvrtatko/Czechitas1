@@ -1,4 +1,4 @@
-import './js/prvni_ukol.js'
+import './js/druhy_ukol.js'
 
 
 // vytvoreni promenen
@@ -6,7 +6,6 @@ let jmeno;
 
 
 
-// mama ma maso 
-//*
+
 
 
